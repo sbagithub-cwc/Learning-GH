@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A995703329A971EF000100B8 /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A995703229A971EF000100B8 /* MyModel.swift */; };
 		A9E2350529A964030041163C /* Learning_GHApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9E2350429A964030041163C /* Learning_GHApp.swift */; };
 		A9E2350729A964030041163C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9E2350629A964030041163C /* ContentView.swift */; };
 		A9E2350929A964050041163C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9E2350829A964050041163C /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A995703229A971EF000100B8 /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 		A9E2350129A964030041163C /* Learning-GH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Learning-GH.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9E2350429A964030041163C /* Learning_GHApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learning_GHApp.swift; sourceTree = "<group>"; };
 		A9E2350629A964030041163C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				A9E2350629A964030041163C /* ContentView.swift */,
 				A9E2350829A964050041163C /* Assets.xcassets */,
 				A9E2350A29A964050041163C /* Preview Content */,
+				A995703229A971EF000100B8 /* MyModel.swift */,
 			);
 			path = "Learning-GH";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A9E2350729A964030041163C /* ContentView.swift in Sources */,
+				A995703329A971EF000100B8 /* MyModel.swift in Sources */,
 				A9E2350529A964030041163C /* Learning_GHApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
